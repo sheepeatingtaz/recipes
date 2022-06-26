@@ -1,2 +1,2 @@
-web: gunicorn recipes/wsgi.py
+web: gunicorn recipes.wsgi
 
